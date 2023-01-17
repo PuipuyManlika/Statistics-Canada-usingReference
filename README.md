@@ -1,4 +1,4 @@
-# Statistics-Canada-usingReference-
+# Statistics Canada (Array with functions using references)
 
 Developing a C++ Application for Statistics Canada to manage the Canadian cities information.
 
