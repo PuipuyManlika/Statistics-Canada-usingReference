@@ -1,9 +1,9 @@
 # Statistics-Canada-usingReference-
 
 Developing a C++ Application for Statistics Canada to manage the Canadian cities information.
-Allow a user to choose one of the following options 
+Allow a user to choose one of the following options:
 
-  1- Add cities --> (adding area code, city name, city abbreviation, population, and surface area into the cities array)
+      1- Add cities --> (adding area code, city name, city abbreviation, population, and surface area into the cities array)
 
   2- Print cities --> (printing the cities array)
 
